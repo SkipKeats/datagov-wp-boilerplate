@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "10e605736edf93b7319a8b64cf5b382a",
+    "content-hash": "eed2e34fc521801952a4817b2cde0206",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -276,14 +276,14 @@
         },
         {
             "name": "gsa/data.gov",
-            "version": "dev-leafletMap",
+            "version": "dev-Map-NonfedMetrics",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "c50ef34dae6c4a6cdf1bedbd604f5a23084c7de3"
+                "reference": "8442885636a21f898a6527a226fb4ee4ddb6adeb"
             },
             "type": "wordpress-theme",
-            "time": "2017-05-08 20:48:50"
+            "time": "2017-05-09 15:55:08"
         },
         {
             "name": "gsa/datagov-custom",
@@ -301,18 +301,18 @@
         },
         {
             "name": "gsa/metric-count",
-            "version": "dev-master",
+            "version": "dev-NonFedAgencies",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/metric-count",
-                "reference": "ad2c126f56de9ac7fe6a951d1865d38cff88ca52"
+                "reference": "6404b95c1fcead4ee38c0c2e619bfaacda0517ef"
             },
             "require": {
                 "composer/installers": "~1.0",
                 "phpoffice/phpexcel": "^1.8"
             },
             "type": "wordpress-plugin",
-            "time": "2017-04-28 19:02:38"
+            "time": "2017-05-03 13:14:21"
         },
         {
             "name": "gsa/restrict-categories",
