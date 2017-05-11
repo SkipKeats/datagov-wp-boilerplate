@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "eed2e34fc521801952a4817b2cde0206",
+    "content-hash": "024145205e9242cf09dde1613c9e12a3",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -280,10 +280,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "b28ba727b38f1e858df237987b606dccdff43b5a"
+                "reference": "a91602c5e7d48aedf24d8505642a77ce50c9c639"
             },
             "type": "wordpress-theme",
-            "time": "2017-05-09 20:00:50"
+            "time": "2017-05-11 15:10:18"
         },
         {
             "name": "gsa/datagov-custom",
@@ -301,18 +301,18 @@
         },
         {
             "name": "gsa/metric-count",
-            "version": "dev-NonFedAgencies",
+            "version": "dev-FullHistoryMetrics",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/metric-count",
-                "reference": "8e015ede9f37e253a41d08f41d01711476fdc2db"
+                "reference": "5e861787e3f41804a4fa1827b96184aaa9c5e044"
             },
             "require": {
                 "composer/installers": "~1.0",
                 "phpoffice/phpexcel": "^1.8"
             },
             "type": "wordpress-plugin",
-            "time": "2017-05-09 20:00:23"
+            "time": "2017-05-11 17:07:16"
         },
         {
             "name": "gsa/restrict-categories",
@@ -1866,15 +1866,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.3.1",
+            "version": "3.3.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.3.1"
+                "reference": "tags/3.3.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.3.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.3.3.2.zip",
                 "reference": null,
                 "shasum": null
             },
