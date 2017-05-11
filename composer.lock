@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "024145205e9242cf09dde1613c9e12a3",
+    "content-hash": "eed2e34fc521801952a4817b2cde0206",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -280,10 +280,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "a91602c5e7d48aedf24d8505642a77ce50c9c639"
+                "reference": "4d4c8b44c8430c15e8889680686008c1926860bf"
             },
             "type": "wordpress-theme",
-            "time": "2017-05-11 15:10:18"
+            "time": "2017-05-11 19:53:48"
         },
         {
             "name": "gsa/datagov-custom",
@@ -301,18 +301,18 @@
         },
         {
             "name": "gsa/metric-count",
-            "version": "dev-FullHistoryMetrics",
+            "version": "dev-NonFedAgencies",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/metric-count",
-                "reference": "5e861787e3f41804a4fa1827b96184aaa9c5e044"
+                "reference": "624f55275c4fc952eaa06568c39ab462bba616ad"
             },
             "require": {
                 "composer/installers": "~1.0",
                 "phpoffice/phpexcel": "^1.8"
             },
             "type": "wordpress-plugin",
-            "time": "2017-05-11 17:07:16"
+            "time": "2017-05-11 19:21:25"
         },
         {
             "name": "gsa/restrict-categories",

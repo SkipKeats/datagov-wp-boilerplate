@@ -53,7 +53,7 @@
     "gsa/custom-post-view-generator": "dev-master",
     "gsa/data.gov": "dev-Map-NonfedMetrics",
     "gsa/datagov-custom": "dev-master",
-    "gsa/metric-count": "dev-FullHistoryMetrics",
+    "gsa/metric-count": "dev-NonFedAgencies",
     "gsa/restrict-categories": "dev-master",
     "gsa/saml-20-single-sign-on": "dev-max",
     "gsa/sticky-posts-in-category": "dev-master",
