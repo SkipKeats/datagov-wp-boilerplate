@@ -280,10 +280,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "8bb8f7a2ffe3a2623c8f3ea2a9e91bc427ba32c0"
+                "reference": "43c2abdc1763af4d441f2a4ba0a2d6150748661e"
             },
             "type": "wordpress-theme",
-            "time": "2017-05-12 14:35:37"
+            "time": "2017-05-12 20:29:14"
         },
         {
             "name": "gsa/datagov-custom",
@@ -305,14 +305,14 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/metric-count",
-                "reference": "624f55275c4fc952eaa06568c39ab462bba616ad"
+                "reference": "bfab289dcaba8974f66d867d185be74501f416af"
             },
             "require": {
                 "composer/installers": "~1.0",
                 "phpoffice/phpexcel": "^1.8"
             },
             "type": "wordpress-plugin",
-            "time": "2017-05-11 19:21:25"
+            "time": "2017-05-12 20:07:01"
         },
         {
             "name": "gsa/restrict-categories",
