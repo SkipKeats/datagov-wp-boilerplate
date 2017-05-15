@@ -280,10 +280,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "d29fdc7f963102600cdf02105c751ebfd678b0d9"
+                "reference": "48214e347b8728a7bd8d929c81ebd272c7eecb16"
             },
             "type": "wordpress-theme",
-            "time": "2017-05-15 18:58:51"
+            "time": "2017-05-15 20:57:51"
         },
         {
             "name": "gsa/datagov-custom",
