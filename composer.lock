@@ -280,10 +280,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "43c2abdc1763af4d441f2a4ba0a2d6150748661e"
+                "reference": "d29fdc7f963102600cdf02105c751ebfd678b0d9"
             },
             "type": "wordpress-theme",
-            "time": "2017-05-12 20:29:14"
+            "time": "2017-05-15 18:58:51"
         },
         {
             "name": "gsa/datagov-custom",
@@ -2566,15 +2566,15 @@
         },
         {
             "name": "wpackagist-plugin/debug-bar",
-            "version": "0.8.4",
+            "version": "0.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/debug-bar/",
-                "reference": "tags/0.8.4"
+                "reference": "tags/0.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/debug-bar.0.8.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar.0.9.zip",
                 "reference": null,
                 "shasum": null
             },
