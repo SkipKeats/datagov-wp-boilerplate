@@ -305,14 +305,14 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/metric-count",
-                "reference": "f851cc695651aaa3307858e70bca3dbfabba064c"
+                "reference": "ca7528fbdb5822681788c622e7967f952cbedc90"
             },
             "require": {
                 "composer/installers": "~1.0",
                 "phpoffice/phpexcel": "^1.8"
             },
             "type": "wordpress-plugin",
-            "time": "2017-05-23 17:11:19"
+            "time": "2017-05-25 20:19:00"
         },
         {
             "name": "gsa/restrict-categories",
