@@ -280,10 +280,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "81f214f3d9945ddeb47646e5c560418113aa9326"
+                "reference": "878f9b655261a2f3849af56b91a611b8482511d0"
             },
             "type": "wordpress-theme",
-            "time": "2017-06-21 16:31:37"
+            "time": "2017-06-28 14:26:07"
         },
         {
             "name": "gsa/datagov-custom",
@@ -291,13 +291,13 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/datagov-custom",
-                "reference": "17b22bb005e8ded34108d7b1d4bbd95f41b9c76a"
+                "reference": "6475b8e2b421fedd8b35800b2e90dc03a4415c97"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2017-06-21 15:55:25"
+            "time": "2017-06-24 01:24:26"
         },
         {
             "name": "gsa/metric-count",
@@ -2347,15 +2347,15 @@
         },
         {
             "name": "wpackagist-plugin/the-events-calendar",
-            "version": "4.5.5",
+            "version": "4.5.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/the-events-calendar/",
-                "reference": "tags/4.5.5"
+                "reference": "tags/4.5.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.5.5.zip",
+                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.5.7.zip",
                 "reference": null,
                 "shasum": null
             },
