@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3a79fc0b7bb6175e9ab0d0a09962bd69",
+    "content-hash": "978e5944406579589a8c9704b776e5b0",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -222,14 +222,14 @@
         },
         {
             "name": "gsa/data.gov",
-            "version": "dev-master",
+            "version": "dev-new_orgs",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "f860cac24d8d619b18c748c5cf1271acaaf7c3e1"
+                "reference": "ab566d83fb756eea5acae295f3fff3624072c119"
             },
             "type": "wordpress-theme",
-            "time": "2017-08-14 15:58:54"
+            "time": "2017-08-29 20:10:36"
         },
         {
             "name": "gsa/datagov-custom",
@@ -247,18 +247,18 @@
         },
         {
             "name": "gsa/metric-count",
-            "version": "dev-master",
+            "version": "dev-new_orgs",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/metric-count",
-                "reference": "8b020fb093eea0e50aabb8ac3bbb876abc678418"
+                "reference": "56bf5243c01907fd20bd0dd8c1eb1434a1fdd2aa"
             },
             "require": {
                 "composer/installers": "~1.0",
                 "phpoffice/phpexcel": "^1.8"
             },
             "type": "wordpress-plugin",
-            "time": "2017-06-02 22:23:38"
+            "time": "2017-08-29 21:00:18"
         },
         {
             "name": "gsa/restrict-categories",
@@ -756,7 +756,7 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v2.8.26",
+            "version": "v2.8.27",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
@@ -1201,7 +1201,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/m-wp-popup.zip?timestamp=1484936778",
+                "url": "https://downloads.wordpress.org/plugin/m-wp-popup.zip?timestamp=1493486503",
                 "reference": null,
                 "shasum": null
             },
@@ -1221,7 +1221,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/no-category-base-wpml.zip?timestamp=1481133411",
+                "url": "https://downloads.wordpress.org/plugin/no-category-base-wpml.zip?timestamp=1492195990",
                 "reference": null,
                 "shasum": null
             },
@@ -1273,15 +1273,15 @@
         },
         {
             "name": "wpackagist-plugin/redirection",
-            "version": "2.7.2",
+            "version": "2.7.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/redirection/",
-                "reference": "tags/2.7.2"
+                "reference": "tags/2.7.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/redirection.2.7.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/redirection.2.7.3.zip",
                 "reference": null,
                 "shasum": null
             },
