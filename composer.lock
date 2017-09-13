@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "978e5944406579589a8c9704b776e5b0",
+    "content-hash": "1fed2865a65f988b6a187139f4a886ad",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -222,14 +222,14 @@
         },
         {
             "name": "gsa/data.gov",
-            "version": "dev-new_orgs",
+            "version": "dev-metrics_nav",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "01e84cfef84d5d9b92052d15801bfc1536ec1e9a"
+                "reference": "2e22e2f65a315413836fe2ba02a94f1828b83460"
             },
             "type": "wordpress-theme",
-            "time": "2017-08-31 15:08:55"
+            "time": "2017-09-13 15:12:02"
         },
         {
             "name": "gsa/datagov-custom",
@@ -237,13 +237,13 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/datagov-custom",
-                "reference": "6475b8e2b421fedd8b35800b2e90dc03a4415c97"
+                "reference": "3d6888e48a31e2ff67b1d0259e26eef92fd5a82b"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2017-06-24 01:24:26"
+            "time": "2017-09-08 21:41:54"
         },
         {
             "name": "gsa/metric-count",
@@ -1233,15 +1233,15 @@
         },
         {
             "name": "wpackagist-plugin/plugin-vulnerabilities",
-            "version": "2.0.47",
+            "version": "2.0.48",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/plugin-vulnerabilities/",
-                "reference": "tags/2.0.47"
+                "reference": "tags/2.0.48"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/plugin-vulnerabilities.2.0.47.zip",
+                "url": "https://downloads.wordpress.org/plugin/plugin-vulnerabilities.2.0.48.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1333,15 +1333,15 @@
         },
         {
             "name": "wpackagist-plugin/the-events-calendar",
-            "version": "4.5.11",
+            "version": "4.5.12.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/the-events-calendar/",
-                "reference": "tags/4.5.11"
+                "reference": "tags/4.5.12.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.5.11.zip",
+                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.5.12.2.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1538,22 +1538,22 @@
         },
         {
             "name": "phpspec/prophecy",
-            "version": "v1.7.0",
+            "version": "v1.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/prophecy.git",
-                "reference": "93d39f1f7f9326d746203c7c056f300f7f126073"
+                "reference": "c9b8c6088acd19d769d4cc0ffa60a9fe34344bd6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/93d39f1f7f9326d746203c7c056f300f7f126073",
-                "reference": "93d39f1f7f9326d746203c7c056f300f7f126073",
+                "url": "https://api.github.com/repos/phpspec/prophecy/zipball/c9b8c6088acd19d769d4cc0ffa60a9fe34344bd6",
+                "reference": "c9b8c6088acd19d769d4cc0ffa60a9fe34344bd6",
                 "shasum": ""
             },
             "require": {
                 "doctrine/instantiator": "^1.0.2",
                 "php": "^5.3|^7.0",
-                "phpdocumentor/reflection-docblock": "^2.0|^3.0.2",
+                "phpdocumentor/reflection-docblock": "^2.0|^3.0.2|^4.0",
                 "sebastian/comparator": "^1.1|^2.0",
                 "sebastian/recursion-context": "^1.0|^2.0|^3.0"
             },
@@ -1564,7 +1564,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.6.x-dev"
+                    "dev-master": "1.7.x-dev"
                 }
             },
             "autoload": {
@@ -1597,7 +1597,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2017-03-02T20:05:34+00:00"
+            "time": "2017-09-04T11:05:03+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -2487,15 +2487,15 @@
         },
         {
             "name": "wpackagist-plugin/query-monitor",
-            "version": "2.13.4",
+            "version": "2.14.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/query-monitor/",
-                "reference": "tags/2.13.4"
+                "reference": "tags/2.14.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/query-monitor.2.13.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/query-monitor.2.14.0.zip",
                 "reference": null,
                 "shasum": null
             },

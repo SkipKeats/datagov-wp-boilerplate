@@ -44,7 +44,7 @@
     "gsa/bwp-external-links": "dev-master",
     "gsa/custom-permalinks": "dev-master",
     "gsa/custom-post-view-generator": "dev-master",
-    "gsa/data.gov": "dev-new_orgs",
+    "gsa/data.gov": "dev-metrics_nav",
     "gsa/datagov-custom": "dev-master",
     "gsa/metric-count": "dev-new_orgs",
     "gsa/restrict-categories": "dev-master",
