@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1fed2865a65f988b6a187139f4a886ad",
+    "content-hash": "27324e1d1349125cc667a97d30f3736a",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -222,14 +222,14 @@
         },
         {
             "name": "gsa/data.gov",
-            "version": "dev-metrics_nav",
+            "version": "dev-metrics_nav_slow_rollout",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "2e22e2f65a315413836fe2ba02a94f1828b83460"
+                "reference": "d9cccc4e3ffe9afaecebbca619356a475b9f84da"
             },
             "type": "wordpress-theme",
-            "time": "2017-09-13 15:12:02"
+            "time": "2017-09-18 18:39:03"
         },
         {
             "name": "gsa/datagov-custom",
@@ -1193,7 +1193,7 @@
         },
         {
             "name": "wpackagist-plugin/m-wp-popup",
-            "version": "1.2",
+            "version": "1.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/m-wp-popup/",
@@ -1201,7 +1201,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/m-wp-popup.zip?timestamp=1493486503",
+                "url": "https://downloads.wordpress.org/plugin/m-wp-popup.zip?timestamp=1505591515",
                 "reference": null,
                 "shasum": null
             },
