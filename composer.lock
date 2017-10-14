@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3a79fc0b7bb6175e9ab0d0a09962bd69",
+    "content-hash": "a781543a18449caae8d24421b36785d2",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -226,10 +226,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/data.gov",
-                "reference": "94f943eb951d2add53c6312ec21f0eacbc040891"
+                "reference": "e9b7df2172b5138691caa7fe963aa3dfb4ceba63"
             },
             "type": "wordpress-theme",
-            "time": "2017-10-05T15:35:28+00:00"
+            "time": "2017-10-14T05:47:51+00:00"
         },
         {
             "name": "gsa/datagov-custom",
@@ -237,13 +237,13 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/datagov-custom",
-                "reference": "3d6888e48a31e2ff67b1d0259e26eef92fd5a82b"
+                "reference": "93479cb94cc34f4c432527cc78b98cecd14b5abf"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2017-09-08T21:41:54+00:00"
+            "time": "2017-10-13T22:04:33+00:00"
         },
         {
             "name": "gsa/metric-count",
@@ -759,16 +759,16 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v2.8.27",
+            "version": "v2.8.28",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
-                "reference": "1377400fd641d7d1935981546aaef780ecd5bf6d"
+                "reference": "7fe089232554357efb8d4af65ce209fc6e5a2186"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/1377400fd641d7d1935981546aaef780ecd5bf6d",
-                "reference": "1377400fd641d7d1935981546aaef780ecd5bf6d",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/7fe089232554357efb8d4af65ce209fc6e5a2186",
+                "reference": "7fe089232554357efb8d4af65ce209fc6e5a2186",
                 "shasum": ""
             },
             "require": {
@@ -815,7 +815,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2017-06-02T07:47:27+00:00"
+            "time": "2017-10-01T21:00:16+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -936,15 +936,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.3.4",
+            "version": "4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.3.4"
+                "reference": "tags/4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.3.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.4.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1036,15 +1036,15 @@
         },
         {
             "name": "wpackagist-plugin/broken-link-checker",
-            "version": "1.11.3",
+            "version": "1.11.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/broken-link-checker/",
-                "reference": "tags/1.11.3"
+                "reference": "tags/1.11.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.5.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1236,15 +1236,15 @@
         },
         {
             "name": "wpackagist-plugin/plugin-vulnerabilities",
-            "version": "2.0.49",
+            "version": "2.0.50",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/plugin-vulnerabilities/",
-                "reference": "tags/2.0.49"
+                "reference": "tags/2.0.50"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/plugin-vulnerabilities.2.0.49.zip",
+                "url": "https://downloads.wordpress.org/plugin/plugin-vulnerabilities.2.0.50.zip",
                 "reference": null,
                 "shasum": null
             },
