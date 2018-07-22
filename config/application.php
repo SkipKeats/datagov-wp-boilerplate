@@ -44,14 +44,19 @@ define('AWS_USE_EC2_IAM_ROLE', true);
 define('WP_CONTENT_PROTOCOL', env('WP_CONTENT_PROTOCOL'));
 $protocol = WP_CONTENT_PROTOCOL;
 
+/**
+ * Changed HTTP_HOST, which retrieves port also, to SERVER_NAME
+ */
 $host = 'data.gov';
-if (isset($_SERVER['HTTP_HOST']) && $_SERVER['HTTP_HOST']) {
-    $host = $_SERVER['HTTP_HOST'];
+if (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME']) {
+    $host = $_SERVER['SERVER_NAME'];
+    echo $host;
 }
 
 $port = '';
 if (isset($_SERVER['SERVER_PORT']) && !in_array($_SERVER['SERVER_PORT'], array(80, 443))) {
     $port = ':' . $_SERVER['SERVER_PORT'];
+    echo $port;
 }
 
 define('WP_HOME', env('WP_HOME') ?: ($protocol . '://' . $host . $port));
