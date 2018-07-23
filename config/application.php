@@ -50,13 +50,11 @@ $protocol = WP_CONTENT_PROTOCOL;
 $host = 'data.gov';
 if (isset($_SERVER['SERVER_NAME']) && $_SERVER['SERVER_NAME']) {
     $host = $_SERVER['SERVER_NAME'];
-    echo $host;
 }
 
 $port = '';
 if (isset($_SERVER['SERVER_PORT']) && !in_array($_SERVER['SERVER_PORT'], array(80, 443))) {
     $port = ':' . $_SERVER['SERVER_PORT'];
-    echo $port;
 }
 
 define('WP_HOME', env('WP_HOME') ?: ($protocol . '://' . $host . $port));
