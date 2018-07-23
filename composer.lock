@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "712661d89283ccfcb637b18626740ac6",
+    "content-hash": "fddc38c3bec13df7021900b75cdc8ca1",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -324,17 +324,17 @@
         },
         {
             "name": "gsa/saml-20-single-sign-on",
-            "version": "dev-max",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GSA/saml-20-single-sign-on",
-                "reference": "74fb769f3cf0157e0e7c93ecc5d891ea6614dc0f"
+                "reference": "4455ea0e6ad8178dacd3e6b196bfc16edf00af63"
             },
             "require": {
                 "composer/installers": "~1.0"
             },
             "type": "wordpress-plugin",
-            "time": "2016-11-08T05:46:42+00:00"
+            "time": "2018-04-05T16:09:30+00:00"
         },
         {
             "name": "gsa/sticky-posts-in-category",
