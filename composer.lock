@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "48bb7195a65a1144acaee79fb83331e9",
+    "content-hash": "712661d89283ccfcb637b18626740ac6",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -1103,7 +1103,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v4.1.1",
+            "version": "v4.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
@@ -1232,15 +1232,15 @@
         },
         {
             "name": "wpackagist-plugin/akismet",
-            "version": "3.3.4",
+            "version": "4.0.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/akismet/",
-                "reference": "tags/3.3.4"
+                "reference": "tags/4.0.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/akismet.3.3.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.4.0.8.zip",
                 "reference": null,
                 "shasum": null
             },

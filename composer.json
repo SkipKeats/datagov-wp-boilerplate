@@ -114,7 +114,7 @@
     "symfony/yaml": "^4",
     "phpdocumentor/reflection-common": "~1",
     "wpackagist-plugin/advanced-custom-fields": "~4",
-    "wpackagist-plugin/akismet": "~3",
+    "wpackagist-plugin/akismet": "~4",
     "wpackagist-plugin/amazon-s3-and-cloudfront": "~1",
     "wpackagist-plugin/amazon-web-services": "~1",
     "wpackagist-plugin/aryo-activity-log": "~2",
