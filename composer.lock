@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fddc38c3bec13df7021900b75cdc8ca1",
+    "content-hash": "6db41b6f12d347b05d8e6a2f7627fb11",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -262,11 +262,11 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/GSA/data.gov",
-                "reference": "ae96936bec3c66446ae0b20f1cab47835be3a575"
+                "url": "https://github.com/SkipKeats/data.gov.git",
+                "reference": "b52c5204cbe76d9a78a4da81a88614754a8e69d0"
             },
             "type": "wordpress-theme",
-            "time": "2017-11-30T01:18:53+00:00"
+            "time": "2018-07-24T18:44:33+00:00"
         },
         {
             "name": "gsa/datagov-custom",
