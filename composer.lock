@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3f04dcb169b243615d59f75fdf90f4f4",
+    "content-hash": "9104f5028d7d6f3a33f9392eea806a17",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.67.7",
+            "version": "3.67.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "002577f67703af64a1be35d65edd6a74842c1e65"
+                "reference": "cdc7180ae87b23d8b34eb8eb8176002081b32c3d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/002577f67703af64a1be35d65edd6a74842c1e65",
-                "reference": "002577f67703af64a1be35d65edd6a74842c1e65",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/cdc7180ae87b23d8b34eb8eb8176002081b32c3d",
+                "reference": "cdc7180ae87b23d8b34eb8eb8176002081b32c3d",
                 "shasum": ""
             },
             "require": {
@@ -84,20 +84,20 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2018-09-06T22:05:51+00:00"
+            "time": "2018-09-13T18:34:42+00:00"
         },
         {
             "name": "composer/installers",
-            "version": "v1.5.0",
+            "version": "v1.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "049797d727261bf27f2690430d935067710049c2"
+                "reference": "cfcca6b1b60bc4974324efb5783c13dca6932b5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/049797d727261bf27f2690430d935067710049c2",
-                "reference": "049797d727261bf27f2690430d935067710049c2",
+                "url": "https://api.github.com/repos/composer/installers/zipball/cfcca6b1b60bc4974324efb5783c13dca6932b5b",
+                "reference": "cfcca6b1b60bc4974324efb5783c13dca6932b5b",
                 "shasum": ""
             },
             "require": {
@@ -204,7 +204,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-12-29T09:13:20+00:00"
+            "time": "2018-08-27T06:10:37+00:00"
         },
         {
             "name": "gsa/arcgis-map",
@@ -248,14 +248,14 @@
         },
         {
             "name": "gsa/custom-post-view-generator",
-            "version": "dev-master",
+            "version": "dev-fix-link-template-error",
             "source": {
                 "type": "git",
-                "url": "https://github.com/GSA/custom-post-view-generator.git",
-                "reference": "eba8af9517c658cf9484b961fb221b2a977d52ef"
+                "url": "https://github.com/SkipKeats/custom-post-view-generator.git",
+                "reference": "545eb8360b48f4adf722b3e2eadb69524d4aa957"
             },
             "type": "wordpress-plugin",
-            "time": "2017-10-27T20:36:03+00:00"
+            "time": "2018-09-13T21:18:36+00:00"
         },
         {
             "name": "gsa/data.gov",
@@ -1575,15 +1575,15 @@
         },
         {
             "name": "wpackagist-plugin/redirection",
-            "version": "3.4",
+            "version": "3.4.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/redirection/",
-                "reference": "tags/3.4"
+                "reference": "tags/3.4.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/redirection.3.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/redirection.3.4.1.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1635,15 +1635,15 @@
         },
         {
             "name": "wpackagist-plugin/the-events-calendar",
-            "version": "4.6.22.1",
+            "version": "4.6.23",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/the-events-calendar/",
-                "reference": "tags/4.6.22.1"
+                "reference": "tags/4.6.23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.6.22.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/the-events-calendar.4.6.23.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -1735,6 +1735,74 @@
         }
     ],
     "packages-dev": [
+        {
+            "name": "dealerdirect/phpcodesniffer-composer-installer",
+            "version": "v0.4.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Dealerdirect/phpcodesniffer-composer-installer.git",
+                "reference": "2e41850d5f7797cbb1af7b030d245b3b24e63a08"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Dealerdirect/phpcodesniffer-composer-installer/zipball/2e41850d5f7797cbb1af7b030d245b3b24e63a08",
+                "reference": "2e41850d5f7797cbb1af7b030d245b3b24e63a08",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.0",
+                "php": "^5.3|^7",
+                "squizlabs/php_codesniffer": "*"
+            },
+            "require-dev": {
+                "composer/composer": "*",
+                "wimg/php-compatibility": "^8.0"
+            },
+            "suggest": {
+                "dealerdirect/qa-tools": "All the PHP QA tools you'll need"
+            },
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\Plugin"
+            },
+            "autoload": {
+                "psr-4": {
+                    "Dealerdirect\\Composer\\Plugin\\Installers\\PHPCodeSniffer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Franck Nijhof",
+                    "email": "f.nijhof@dealerdirect.nl",
+                    "homepage": "http://workingatdealerdirect.eu",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP_CodeSniffer Standards Composer Installer Plugin",
+            "homepage": "http://workingatdealerdirect.eu",
+            "keywords": [
+                "PHPCodeSniffer",
+                "PHP_CodeSniffer",
+                "code quality",
+                "codesniffer",
+                "composer",
+                "installer",
+                "phpcs",
+                "plugin",
+                "qa",
+                "quality",
+                "standard",
+                "standards",
+                "style guide",
+                "stylecheck",
+                "tests"
+            ],
+            "time": "2017-12-06T16:27:17+00:00"
+        },
         {
             "name": "doctrine/instantiator",
             "version": "1.1.0",
@@ -2165,20 +2233,23 @@
         },
         {
             "name": "phpunit/php-file-iterator",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-file-iterator.git",
-                "reference": "cecbc684605bb0cc288828eb5d65d93d5c676d3c"
+                "reference": "050bedf145a257b1ff02746c31894800e5122946"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-file-iterator/zipball/cecbc684605bb0cc288828eb5d65d93d5c676d3c",
-                "reference": "cecbc684605bb0cc288828eb5d65d93d5c676d3c",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-file-iterator/zipball/050bedf145a257b1ff02746c31894800e5122946",
+                "reference": "050bedf145a257b1ff02746c31894800e5122946",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.1"
             },
             "type": "library",
             "extra": {
@@ -2208,7 +2279,7 @@
                 "filesystem",
                 "iterator"
             ],
-            "time": "2018-06-11T11:44:00+00:00"
+            "time": "2018-09-13T20:33:42+00:00"
         },
         {
             "name": "phpunit/php-text-template",
@@ -3138,6 +3209,49 @@
             "time": "2018-01-29T19:49:41+00:00"
         },
         {
+            "name": "wp-coding-standards/wpcs",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards.git",
+                "reference": "46d42828ce7355d8b3776e3171f2bda892d179b4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/WordPress-Coding-Standards/WordPress-Coding-Standards/zipball/46d42828ce7355d8b3776e3171f2bda892d179b4",
+                "reference": "46d42828ce7355d8b3776e3171f2bda892d179b4",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "squizlabs/php_codesniffer": "^2.9.0 || ^3.0.2"
+            },
+            "require-dev": {
+                "phpcompatibility/php-compatibility": "*"
+            },
+            "suggest": {
+                "dealerdirect/phpcodesniffer-composer-installer": "^0.4.3 || This Composer plugin will sort out the PHPCS 'installed_paths' automatically."
+            },
+            "type": "phpcodesniffer-standard",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Contributors",
+                    "homepage": "https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/graphs/contributors"
+                }
+            ],
+            "description": "PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions",
+            "keywords": [
+                "phpcs",
+                "standards",
+                "wordpress"
+            ],
+            "time": "2018-09-10T17:04:05+00:00"
+        },
+        {
             "name": "wpackagist-plugin/check-email",
             "version": "0.5.5",
             "source": {
@@ -3237,7 +3351,8 @@
         "gsa/usa-search": 20,
         "gsa/wp-sitemap-page": 20,
         "gsa/wp-open311": 20,
-        "philipashlock/wp-no-taxonomy-base": 20
+        "philipashlock/wp-no-taxonomy-base": 20,
+        "wp-coding-standards/wpcs": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
