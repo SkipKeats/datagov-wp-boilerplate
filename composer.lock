@@ -252,10 +252,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/SkipKeats/custom-post-view-generator.git",
-                "reference": "874fee82581cb576f06e880c6e4d46bb7fdc7e6e"
+                "reference": "3ce016223d5c3386840e589e6e1a5b624eb95734"
             },
             "type": "wordpress-plugin",
-            "time": "2018-09-17T17:54:02+00:00"
+            "time": "2018-09-17T18:08:57+00:00"
         },
         {
             "name": "gsa/data.gov",
