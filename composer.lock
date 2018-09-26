@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.67.14",
+            "version": "3.67.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "f620d3abfb582f648e09456dbdf50ab11d4ec19d"
+                "reference": "527f7e6105ccfc27fd6d27aacdcaa293e66a4a96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/f620d3abfb582f648e09456dbdf50ab11d4ec19d",
-                "reference": "f620d3abfb582f648e09456dbdf50ab11d4ec19d",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/527f7e6105ccfc27fd6d27aacdcaa293e66a4a96",
+                "reference": "527f7e6105ccfc27fd6d27aacdcaa293e66a4a96",
                 "shasum": ""
             },
             "require": {
@@ -84,7 +84,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2018-09-18T21:32:51+00:00"
+            "time": "2018-09-19T18:53:48+00:00"
         },
         {
             "name": "composer/installers",
@@ -252,10 +252,10 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/SkipKeats/custom-post-view-generator.git",
-                "reference": "e6d14e779804afcdb70eefc2469bd85c521d18b0"
+                "reference": "2b5ca9c2497de48a929c1c86685ee758cfb47cce"
             },
             "type": "wordpress-plugin",
-            "time": "2018-09-19T15:48:45+00:00"
+            "time": "2018-09-20T19:04:40+00:00"
         },
         {
             "name": "gsa/data.gov",
@@ -1295,15 +1295,15 @@
         },
         {
             "name": "wpackagist-plugin/aryo-activity-log",
-            "version": "2.4.1",
+            "version": "2.5.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/aryo-activity-log/",
-                "reference": "tags/2.4.1"
+                "reference": "tags/2.5.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/aryo-activity-log.2.4.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/aryo-activity-log.2.5.0.zip",
                 "reference": null,
                 "shasum": null
             },
