@@ -41,7 +41,7 @@
     "wpackagist-plugin/wordpress-seo": "~7",
     "gsa/arcgis-map": "dev-master",
     "gsa/bwp-external-links": "dev-master",
-    "SkipKeats/custom-content-type-manager": "dev-master",
+    "SkipKeats/custom-content-type-manager": "dev-fix-tab-custom-fields",
     "gsa/custom-permalinks": "dev-master",
     "SkipKeats/custom-post-view-generator": "dev-fix-link-template-error",
     "gsa/data.gov": "dev-master",
